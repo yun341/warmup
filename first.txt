@@ -5,7 +5,8 @@ second commit.
 third commit.
 
 
-creating a new brnach
+creating a new brnach appending feature branch.
+
 
 in feature branch...
 
