@@ -27,10 +27,6 @@ master checkin
 dev checkin 2
 
 dev-check1
-rebase linux
 
 
 rebase 1
-
-reset testing
-
