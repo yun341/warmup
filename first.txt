@@ -26,7 +26,12 @@ master checkin
 
 dev checkin 2
 
+
 dev-check1
 
+1
 
-rebase 1
+2
+
+3
+
