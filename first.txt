@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 first text in git.
 
 second commit.
@@ -30,8 +31,10 @@ dev checkin 2
 dev-check1
 
 1
-
 2
-
 3
+
+
+4
+5
 
