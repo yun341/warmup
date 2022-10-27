@@ -1,7 +1,5 @@
 first text in git.
 
-second commit.
-
 third commit.
 
 
@@ -26,7 +24,20 @@ master checkin
 
 dev checkin 2
 
+
 dev-check1
 
+1
+2
+3
 
-rebase 1
+
+4
+5
+
+
+6
+7
+
+8
+9
